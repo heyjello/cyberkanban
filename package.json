@@ -37,7 +37,7 @@
     "@nestjs/common": "^8.1.0",
     "@nestjs/core": "^6.0.0",
     "@nestjs/ng-universal": "^3.2.0",
-    "@nestjs/platform-express": "^6.0.0",
+    "@nestjs/platform-express": "^11.1.19",
     "@nguniversal/express-engine": "^9.1.1",
     "@nguniversal/module-map-ngfactory-loader": "^8.2.6",
     "class-transformer": "^0.4.0",
